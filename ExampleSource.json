@@ -1,0 +1,90 @@
+{
+    "name": "My Source",
+    "identifier": "com.rafabra988.source",
+    "website": "https://rafabra988.github.io",
+    "subtitle": "YTLitePlus official Altstore source.",
+    "description": "This is the official Altstore source for YTLitePlus.\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks.\n\nFor full details on what's included, check the GitHub repository:\n\nhttps://github.com/YTLitePlus/YTLitePlus",
+    "tintColor": "#11223d",
+    "iconURL": "https://images.stockcake.com/public/5/9/5/595ed85f-d074-4391-b504-e83d5ae0c035_medium/astronaut-in-cosmos-stockcake.jpg",
+    "headerURL": "https://images6.alphacoders.com/134/1349325.png",
+    "apps": [
+      {
+        "beta": false,
+        "name": "Youtube (YTLite)",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "developerName": "Various Developers",
+        "subtitle": "YTLite with more features!",
+        "version": "19.47.7",
+        "versionDate": "2024-12-01",
+        "versionDescription": "Current YouTube IPA: \"19.47.7\"  \r\nCurrent YTLite Version: \"5.0.1\"  \r\nCurrent App Compatibility: \"iOS/iPadOS 15.0\" or later\r\n\r\nRELEASE 19.47.7\u20225.1: (2024\u202212\u202201)\r\n\r\n\u2022 Updated Youtube from \"19.32.6\" to \"19.34.2\"\r\n\u2022 Updated YTLite from \"5.0.1\" to \"5.1\"\r\n\r\nIssues in this Release:\r\n\u2022 Touches will not work while bypassing startup popup\r\n\u2022 LowContrastMode does not work *(Compatible only with YouTube v17.33.2\u2022v17.38.10)*\r\n\r\nCatbox\r\n\"z8jg5n.ipa\"",
+        "downloadURL": "https://drive.google.com/uc?export=download&id=1Y3t43oJWeV3N-HISU0EQxBJAZy602PCN",
+        "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks :\n\n\u2022 YTLite\n\u2022 YTUHD\n\u2022 YouPiP\n\u2022 Return YouTube Dislikes\n\u2022 YTNoTracking \n\nCredit\n\n@Balackburn, @bhackel, @Deci8BelioS, @matt911, @arichornloverALT, @Macleykun, @AlexInABox, @SKEIDs, @VictorxD70, @Glenta, @zSaaiq, @MrAlucardDante, @gototheskinny, @asdfzxcvbn, @dayanch96, @ssuesskind, @MiRO92, @qnblackcat, @PoomSmart, @level3tjg, @BandarHL, @Galactic-Dev, @julioverne, @hbang, @Lyvendia, @therealFoxster, @ichitaso, @AhmedBafkir, @CokePokes, @ISnackable",
+        "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+        "tintColor": "e22a41",
+        "category": "social",
+        "size": 103674391,
+        "screenshotURLs": [
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/1.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/2.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/3.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/4.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/5.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/6.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/7.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/8.png",
+          "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/9.png"
+        ],
+        "appPermissions": {
+          "entitlements": [
+            "com.apple.security.application-groups",
+            "com.apple.developer.associated-domains",
+            "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+            "com.apple.developer.usernotifications.time-sensitive",
+            "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+            "com.apple.developer.usernotifications.time-sensitive",
+            "get-task-allow",
+            "com.apple.developer.device-information.user-assigned-device-name",
+            "com.apple.developer.group-session",
+            "keychain-access-groups",
+            "com.apple.developer.networking.multicast",
+            "aps-environment",
+            "com.apple.developer.networking.wifi-info",
+            "com.apple.developer.siri"
+          ],
+          "privacy": {
+            "NSAppleMusicUsageDescription": "YTLitePlus requires access to your Apple Music library.",
+            "NSBluetoothPeripheralUsageDescription": "YTLitePlus requires Bluetooth access to connect with nearby peripherals.",
+            "NSCameraUsageDescription": "YTLitePlus requires access to the camera to capture photos and videos.",
+            "NSContactsUsageDescription": "YTLitePlus requires access to your contacts to help you share content with your friends.",
+            "NSLocalNetworkUsageDescription": "YTLitePlus requires local network access to connect and communicate with nearby devices.",
+            "NSLocationWhenInUseUsageDescription": "YTLitePlus requires access to your location while using the app to provide personalized recommendations.",
+            "NSMicrophoneUsageDescription": "YTLitePlus requires access to your microphone to record audio.",
+            "NSPhotoLibraryUsageDescription": "YTLitePlus requires access to your Photo Library to save photos and videos.",
+            "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YTLitePlus will link activity from this app with activity from non-Google apps and websites."
+          }
+        },
+        "versions": [
+          {
+            "version": "18.47.7",
+            "date": "2023-12-05",
+            "localizedDescription": "Current YouTube IPA: \"18.48.3\"  \r\nCurrent YTLitePlus Version: \"2.4\"  \r\nCurrent App Compatibility: \"iOS/iPadOS 14.0\" or later\r\n\r\nRELEASE 18.48.3\u20222.4: (2023\u202212\u202205)\r\n\r\n\u2022 Updated Youtube from \"18.46.3\" to \"18.48.3\"\r\n\u2022 Updated submodules\r\n\u2022 New \"Hide Shorts\" option (YTUnShorts) from @poomsmart\r\n  \r\nIssues in this Release:\r\n\u2022 LowContrastMode does not work *(Compatible only with YouTube v16.05.7\u2022v17.38.10)*\r\n\u2022 VersionSpoofer (Lite) doesn't work with YTLite *(as the version is already spoofed by YTLite to fix YTClassicVideoQuality)*\r\n\u2022 Age\u2022restricted videos don't load correctly 29 *(enable \"Skip content warning\" in YTlite settings to resolve this issue)*\r\n\u2022 Hiding Shorts creates an empty black space instead 55",
+            "downloadURL": "https://codeberg.org/Balackburn/YTLitePlus/releases/download/v18.48.3-2.4/YTLitePlus_18.48.3_2.4.ipa",
+            "size": 111274005
+          }
+        ]
+      }
+    ],
+    "news": [
+      {
+        "appID": "com.google.ios.youtube",
+        "caption": "Update of YTLitePlus just got released!",
+        "date": "2023-07-10",
+        "identifier": "release-18.27.3-2.2.1",
+        "imageURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/screenshots/news/new_release.png",
+        "notify": true,
+        "tintColor": "000000",
+        "title": "18.27.3-2.2.1 - YTLitePlus  10/07/23",
+        "url": "https://github.com/Balackburn/YTLitePlus/releases/tag/v18.27.3-2.2.1"
+      }
+    ]
+  }

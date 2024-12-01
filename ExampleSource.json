@@ -1,0 +1,152 @@
+{
+    "name": "My Source",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://images.stockcake.com/public/5/9/5/595ed85f-d074-4391-b504-e83d5ae0c035_medium/astronaut-in-cosmos-stockcake.jpg",
+    "headerURL": "https://images6.alphacoders.com/134/1349325.png",
+    "website": "https://example.com",
+    "tintColor": "#11223d",
+
+    "apps": [
+        {
+            "name": "Youtube (YTLITE)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Various Developers",
+            "subtitle": "YTLite with more features!",
+            "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks :\n\n\u2022 YTLite\n\u2022 YTUHD\n\u2022 YouPiP\n\u2022 Return YouTube Dislikes\n\u2022 YTNoTracking\n\u2022 \n\nCredit\n\n@Balackburn, @bhackel, @Deci8BelioS, @matt911, @arichornloverALT, @Macleykun, @AlexInABox, @SKEIDs, @VictorxD70, @Glenta, @zSaaiq, @MrAlucardDante, @gototheskinny, @asdfzxcvbn, @dayanch96, @ssuesskind, @MiRO92, @qnblackcat, @PoomSmart, @level3tjg, @BandarHL, @Galactic-Dev, @julioverne, @hbang, @Lyvendia, @therealFoxster, @ichitaso, @AhmedBafkir, @CokePokes, @ISnackable",
+            "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+            "tintColor": "e22a41",
+            "category": "social",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/1.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/2.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/3.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/4.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/5.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/6.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/7.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/8.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/9.png"
+            ],
+            "versions": [
+                {
+                    "version": "19.47.7",
+                    "date": "2024-12-01T09:00:00-08:00",
+                    "size": 103674391,
+                    "downloadURL": "https://drive.google.com/uc?export=download&id=1Y3t43oJWeV3N-HISU0EQxBJAZy602PCN",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+                    "com.apple.developer.usernotifications.time-sensitive",
+                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+                    "com.apple.developer.usernotifications.time-sensitive",
+                    "get-task-allow",
+                    "com.apple.developer.device-information.user-assigned-device-name",
+                    "com.apple.developer.group-session",
+                    "keychain-access-groups",
+                    "com.apple.developer.networking.multicast",
+                    "aps-environment",
+                    "com.apple.developer.networking.wifi-info",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSAppleMusicUsageDescription": "YTLitePlus requires access to your Apple Music library.",
+                    "NSBluetoothPeripheralUsageDescription": "YTLitePlus requires Bluetooth access to connect with nearby peripherals.",
+                    "NSCameraUsageDescription": "YTLitePlus requires access to the camera to capture photos and videos.",
+                    "NSContactsUsageDescription": "YTLitePlus requires access to your contacts to help you share content with your friends.",
+                    "NSLocalNetworkUsageDescription": "YTLitePlus requires local network access to connect and communicate with nearby devices.",
+                    "NSLocationWhenInUseUsageDescription": "YTLitePlus requires access to your location while using the app to provide personalized recommendations.",
+                    "NSMicrophoneUsageDescription": "YTLitePlus requires access to your microphone to record audio.",
+                    "NSPhotoLibraryUsageDescription": "YTLitePlus requires access to your Photo Library to save photos and videos.",
+                    "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YTLitePlus will link activity from this app with activity from non-Google apps and websites."
+                }
+            }
+        },
+        {
+            "name": "Another Example App",
+            "bundleIdentifier": "com.example.anotherapp",
+            "developerName": "Example Developer",
+            "subtitle": "Another awesome app.",
+            "localizedDescription": "This is another awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
+            "tintColor": "#3660A2",
+            "screenshots": {
+                "iphone": [
+                    "https://example.com/anotherapp_portrait_1.png",
+                    "https://example.com/anotherapp_portrait_2.png",
+                    {
+                        "imageURL": "https://example.com/anotherapp_landscape.png",
+                        "width": 2556,
+                        "height": 1179
+                    }
+                ],
+                "ipad": [
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
+                        "width": 1668,
+                        "height": 2388
+                    },
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
+                        "width": 2388,
+                        "height": 1668
+                    }
+                ]
+            },
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2022-06-21T09:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
+                    "localizedDescription": "Bug fixes and performance improvements.",
+                    "size": 81514,
+                    "minOSVersion": "13.0"
+                },
+                {
+                    "version": "1.1",
+                    "date": "2022-04-15T10:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
+                    "localizedDescription": "New features!",
+                    "size": 81364,
+                    "minOSVersion": "13.0",
+                    "maxOSVersion": "16.3"
+                },
+                {
+                    "version": "1.0",
+                    "date": "2022-02-02T07:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
+                    "localizedDescription": "Initial release.",
+                    "size": 79821
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.developer.healthkit",
+                    "com.apple.developer.game-center"
+                ],
+                "privacy": {
+                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+        "appID": "com.google.ios.youtube",
+        "caption": "Update of YTLitePlus just got released!",
+        "date": "2023-07-10",
+        "identifier": "release-18.27.3-2.2.1",
+        "imageURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/screenshots/news/new_release.png",
+        "notify": true,
+        "tintColor": "000000",
+        "title": "18.27.3-2.2.1 - YTLitePlus  10/07/23",
+        "url": "https://github.com/Balackburn/YTLitePlus/releases/tag/v18.27.3-2.2.1"
+        }
+    ]
+}
